@@ -1,0 +1,13 @@
+{
+  "appname": "bm-admin",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "28A40738-E6EF-4D98-AE81-948A419E956D",
+  "buyerid": "dist-2",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
